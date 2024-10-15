@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cong Dang</h1>
-<h3 align="center">I am a student studying Information Technology, mastering basic knowledge in programming. I want to intern at the company to learn more about the work process and how it works to create an IT product. I will try to complete assigned tasks, learn from experience and constantly strive...</h3>
+<h3 align="justify">I am a student studying Information Technology, mastering basic knowledge in programming. I want to intern at the company to learn more about the work process and how it works to create an IT product. I will try to complete assigned tasks, learn from experience and constantly strive...</h3>
 
 - 🔭 I’m currently working on [ShopeeMe](https://github.com/dangcong23012002/shopee)
 
